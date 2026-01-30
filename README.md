@@ -22,4 +22,5 @@ https://yourusername.github.io/html-resume/
 
 ## Screenshots
 <img width="774" height="2557" alt="Output" src="https://github.com/user-attachments/assets/ce7603f3-eaba-4879-af09-7da9382e5e8b" />
-<img width="774" height="1161" alt="HTML Code" src="https://github.com/user-attachments/assets/46ba2158-fd5e-41e1-9068-85f36b798421" />
+<img width="1548" height="2326" alt="HTML Code" src="https://github.com/user-attachments/assets/b556ae37-9583-46d1-85ff-ebc9aea36a2f" />
+
