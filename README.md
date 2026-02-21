@@ -5,7 +5,8 @@ Single-page resume website built using pure HTML with dummy data for demonstrati
 https://html-practice-resume.vercel.app/
 
 ## Screenshots
-<img width="774" height="2557" alt="Output" src="https://github.com/user-attachments/assets/ce7603f3-eaba-4879-af09-7da9382e5e8b" />
+<img width="1921" height="2135" alt="screencapture-html-practice-resume-vercel-app-2026-02-21-09_01_14" src="https://github.com/user-attachments/assets/3e8cd58d-b9d3-4547-bb2e-50a389159768" />
+
 
 ## How to Run
 1. Download or clone this repository.
