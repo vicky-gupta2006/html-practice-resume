@@ -2,7 +2,7 @@
 Single-page resume website built using pure HTML with dummy data for demonstration purposes.
 
 ## Live Demo
-https://vickyxcodes.github.io/html-practice-resume/
+https://html-practice-resume.vercel.app/
 
 ## Screenshots
 <img width="774" height="2557" alt="Output" src="https://github.com/user-attachments/assets/ce7603f3-eaba-4879-af09-7da9382e5e8b" />
